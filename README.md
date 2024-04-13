@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/franclobo/Blog-Preview-Card/assets/58642949/7eb25300-a03a-4aab-8f01-ee4626782f7e)
+
 
 ### Links
 
